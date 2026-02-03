@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0.1",
+  "version": "1.3.0.0",
   "notes": [
-        "• Name Change: From Backup Tool to Easy Backup",
-		"• Totaly revamped UI, to match the Easy UI Style",
-		"• Minor tweaks"
+        "• Added a button for reporting bugs / adding suggestions.",
+		"• Added a function to delete all backups except the most recent one."
+		
   ]
 }
