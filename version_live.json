@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0.1",
+  "version": "1.3.0.0",
   "notes": [
         "• Added a button for reporting bugs / adding suggestions.",
 		"• Added a function to delete all backups except the most recent one."
